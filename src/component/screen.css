@@ -1,0 +1,24 @@
+.screen.t1{
+    display: flex;
+    justify-content: end;
+    width: 254px; 
+    overflow-wrap: break-word; 
+    /* overflow: scroll; */
+    height: 50px;
+    font-size: xx-large;
+    /* border: 2px solid red; */
+    background-color: black;
+    color: white;
+}
+.screen.t2{
+    display: flex;
+    justify-content: end;
+    width: 254px; 
+    overflow-wrap: break-word; 
+    /* overflow: scroll; */
+    height: 50px;
+    /* border: 2px solid red; */
+    font-size: xx-large;
+    background-color: rgb(228, 224, 224);
+    color: black;
+}

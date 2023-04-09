@@ -1,0 +1,41 @@
+.normal.t1 {
+    background-color: #e0e0e7; 
+    color: rgb(15, 9, 9);
+    margin: 0px;
+    width:59px;
+    height: 47px;
+    border: none;
+    font-size: xx-large;
+}
+.special.t1 {
+    background-color: #fb9917;
+    margin: 0px;
+    color: white;
+    font-size: xx-large;
+    width:59px;
+    height: 47px;
+    border: none;
+}
+.normal.t2 {
+    background-color: #1f1f18; 
+    color: white;
+    font-size: xx-large;
+    margin: 0px;
+    width:59px;
+    height: 47px;
+    border: none;
+}
+.special.t2 {
+    background-color: rgb(6,113,226); 
+    color: #1f1f18;
+    margin: 0px;
+    border: none;
+    font-size: xx-large;
+    width:59px;
+    height: 47px;
+}
+.Tableconatiner{
+    width: 210px;
+    height: 250px;
+}
+
