@@ -1,0 +1,49 @@
+.normal.t1 {
+    background-color: #e0e0e7;       
+    border: 1px solid black;
+    color: rgb(15, 9, 9);
+    margin: 0px;
+    border: none;
+    font-size: xx-large;
+}
+.special.t1 {
+    background-color: #fb9917;      
+    border: 1px solid black;
+    margin: 0px;
+    color: white;
+    font-size: xx-large;
+    border: none;
+}
+.normal.t2 {
+    background-color: #1f1f18;       
+    border: 1px solid white;
+    color: white;
+    font-size: xx-large;
+    margin: 0px;
+    border: none;
+}
+.special.t2 {
+    background-color: rgb(6,113,226);       
+    border: 1px solid rgb(241, 235, 235);
+    color: #1f1f18;
+    margin: 0px;
+    border: none;
+    font-size: xx-large;
+}
+.normal.top.t1{
+    background-color:gray;      
+    border: 1px solid black;
+    margin: 0px;
+    color: black;
+    font-size: xx-large;
+    border: 1px rgb(238, 231, 231);
+}
+.normal.top.t2{
+    background-color:rgb(51, 48, 48);      
+    border: 1px solid black;
+    margin: 0px;
+    color: white;
+    font-size: xx-large;
+    border: none;
+    
+}

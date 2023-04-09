@@ -1,0 +1,22 @@
+.screen.t1{
+    display: flex;
+    justify-content: end;
+    width: 240px; 
+    overflow-wrap: break-word; 
+    height: 50px;
+    font-size: xx-large;
+    border: 1px solid black;
+    background-color: black;
+    color: aliceblue;
+}
+.screen.t2{
+    display: flex;
+    justify-content: end;
+    width: 240px; 
+    overflow-wrap: break-word; 
+    height: 50px;
+    font-size: xx-large;
+    background-color: rgb(228, 224, 224);    
+    border: 1px solid black;
+    color: black;
+}
