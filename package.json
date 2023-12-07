@@ -2,7 +2,6 @@
   "name": "apppp",
   "homepage": "hhttps://mishra7752.github.io/Calculator-Using-React/",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
